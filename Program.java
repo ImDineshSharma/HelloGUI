@@ -7,7 +7,7 @@ public class Apples {
 	 String st1 = JOptionPane.showInputDialog("Enter first Number");
 	 String st2 = JOptionPane.showInputDialog("Enter second Number");
 	 
-   // Let showInputDialog  know what we are talking about int not String.
+   // Let showInputDialog know that we are talking about int not String.
 	 int num1 = Integer.parseInt(st1);
 	 int num2 = Integer.parseInt(st2);
 	 
